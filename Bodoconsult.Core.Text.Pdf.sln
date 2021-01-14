@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bodoconsult.Core.Text.Pdf", "Bodoconsult.Core.Text.Pdf\Bodoconsult.Core.Text.Pdf.csproj", "{64670108-AD72-49CC-9BEB-D69F911FDDDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bodoconsult.Core.Text.Pdf.Test", "Bodoconsult.Core.Text.Pdf.Test\Bodoconsult.Core.Text.Pdf.Test.csproj", "{B4CFB884-7F24-4EEF-BF8F-1E882EA0A11C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64670108-AD72-49CC-9BEB-D69F911FDDDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64670108-AD72-49CC-9BEB-D69F911FDDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64670108-AD72-49CC-9BEB-D69F911FDDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64670108-AD72-49CC-9BEB-D69F911FDDDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4CFB884-7F24-4EEF-BF8F-1E882EA0A11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CFB884-7F24-4EEF-BF8F-1E882EA0A11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CFB884-7F24-4EEF-BF8F-1E882EA0A11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CFB884-7F24-4EEF-BF8F-1E882EA0A11C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E59319D-34E5-499B-8BA4-CABE134A41C8}
+	EndGlobalSection
+EndGlobal

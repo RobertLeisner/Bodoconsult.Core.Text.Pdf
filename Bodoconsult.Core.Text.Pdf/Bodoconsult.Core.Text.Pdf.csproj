@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <Deterministic>False</Deterministic>
+    <RepositoryUrl>https://github.com/RobertLeisner/Bodoconsult.Core.Text.Pdf</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageId>Bodoconsult.Core.Text.Pdf</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Robert Leisner</Authors>
+    <Company>Bodoconsult EDV-Dienstleistungen GmbH</Company>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Output structured text PDF</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Enhances Bodoconsult.Core.Text, a simple class for collecting structured text in an app, with an export of the text to PDF. Use library to create simple reports from apps or from unit testing i.e. for auditors or as documentation.</Description>
+    <PackageReleaseNotes>Minor bugfixes</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/RobertLeisner/Bodoconsult.Core.Text.Pdf</PackageProjectUrl>
+    <NeutralLanguage>en</NeutralLanguage>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Templates\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Bodoconsult.Core.Pdf" Version="1.0.1" />
+    <PackageReference Include="Bodoconsult.Core.Text" Version="1.0.0" />
+    <PackageReference Include="Bodoconsult.Core.Typography" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
