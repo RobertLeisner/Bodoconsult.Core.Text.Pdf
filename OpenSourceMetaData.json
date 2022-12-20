@@ -1,5 +1,5 @@
 ﻿{
 	"$type": "OpenSourceConnectorBodoCms.Business.Model.OpenSourceMetaData, OpenSourceConnectorBodoCms.Business",
-	"NugetPackage": "https://www.nuget.org/packages/Bodoconsult.Core.Text/",
+	"NugetPackage": "https://www.nuget.org/packages/Bodoconsult.Core.Text.Pdf/",
 	"Category": "Text and PDF handling"
 }

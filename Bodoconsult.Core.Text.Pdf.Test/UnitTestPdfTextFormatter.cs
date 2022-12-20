@@ -1,5 +1,7 @@
-﻿using System;
-using System.Diagnostics;
+﻿// Copyright (c) Bodoconsult EDV-Dienstleistungen GmbH. All rights reserved.
+
+
+using System;
 using System.IO;
 using Bodoconsult.Core.Text.Model;
 using Bodoconsult.Core.Text.Pdf.Test.Helpers;

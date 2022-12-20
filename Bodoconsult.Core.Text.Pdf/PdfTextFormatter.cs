@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Copyright (c) Bodoconsult EDV-Dienstleistungen GmbH. All rights reserved.
+
+using System;
 using System.Data;
 using System.IO;
 using Bodoconsult.Core.Pdf.PdfSharp;
